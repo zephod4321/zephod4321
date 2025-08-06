@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Just expirimenting.
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](./myAvitar.png)
