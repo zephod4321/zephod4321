@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Just expirimenting.
-![plot](./myAvatar.png)
+![plot](./images/myAvatar.png)
